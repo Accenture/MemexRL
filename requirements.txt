@@ -8,7 +8,7 @@ torch==2.9.1+cu129
 transformers==4.57.1
 tokenizers==0.22.2
 numpy==1.26.4
-ray==2.53.0
+ray==2.54.0
 wandb==0.24.1
 datasets==4.4.2
 filelock==3.20.2
