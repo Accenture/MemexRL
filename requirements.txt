@@ -1,0 +1,19 @@
+# =============================================================================
+# Memex(RL) — Pinned dependencies (versions match slimerl/slime Docker image
+# digest sha256:c464f461e78c, verified on 2026-03-26)
+# =============================================================================
+
+# --- Pre-installed in Slime Docker image ---
+torch==2.9.1+cu129
+transformers==4.57.1
+tokenizers==0.22.2
+numpy==1.26.4
+ray==2.53.0
+wandb==0.24.1
+datasets==4.4.2
+filelock==3.20.2
+PyYAML==6.0.3
+
+# --- Must be installed manually (Step 3 in README) ---
+alfworld==0.4.2
+textworld==1.7.0
