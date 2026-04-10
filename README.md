@@ -2,8 +2,6 @@
 
 This is the code release for the paper **[Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/abs/2603.04257)**.
 
-```
-
 ## Prerequisites
 
 Training runs inside the **[Slime Docker container](https://github.com/THUDM/slime)** (`slimerl/slime:latest`), which bundles all heavy dependencies (Megatron-LM, SGLang, Ray, CUDA, NCCL). You do **not** install Slime inside this repo — it lives in the Docker image.
