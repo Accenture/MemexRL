@@ -5,7 +5,7 @@
 
 # --- Pre-installed in Slime Docker image ---
 torch==2.9.1+cu129
-transformers==4.57.1
+transformers==5.0.0rc3
 tokenizers==0.22.2
 numpy==1.26.4
 ray==2.53.0
