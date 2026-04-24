@@ -11,7 +11,7 @@ numpy==1.26.4
 ray==2.53.0
 wandb==0.24.1
 datasets==4.4.2
-filelock==3.20.2
+filelock==3.20.3
 PyYAML==6.0.3
 
 # --- Must be installed manually (Step 3 in README) ---
